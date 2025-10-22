@@ -131,13 +131,13 @@ const Footer = () => {
               © 2024 Unlimit. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
-              <a href="#" className="text-gray-300 hover:text-primary-400 text-sm transition-colors duration-300">
+              <a href="/" className="text-gray-300 hover:text-primary-400 text-sm transition-colors duration-300">
                 Privacy Policy
               </a>
-              <a href="#" className="text-gray-300 hover:text-primary-400 text-sm transition-colors duration-300">
+              <a href="/" className="text-gray-300 hover:text-primary-400 text-sm transition-colors duration-300">
                 Terms of Service
               </a>
-              <a href="#" className="text-gray-300 hover:text-primary-400 text-sm transition-colors duration-300">
+              <a href="/" className="text-gray-300 hover:text-primary-400 text-sm transition-colors duration-300">
                 Cookie Policy
               </a>
             </div>
